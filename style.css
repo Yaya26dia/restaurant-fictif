@@ -1,0 +1,28 @@
+body{
+    background: grey;
+}
+.hero{
+    background-image: url("images/bacgr.png");
+    background-repeat: no-repeat;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+}
+.section{
+    text-align: center;
+    padding-top: 200px;
+}
+.text{
+    color: antiquewhite;
+    
+}
+.bouton{
+    padding-top: 50px;  
+}
+.nav-item a:hover{
+    color: red;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
